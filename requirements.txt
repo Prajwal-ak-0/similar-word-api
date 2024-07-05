@@ -1,0 +1,6 @@
+numpy
+fastapi
+uvicorn
+firebase_admin
+python-dotenv
+gensim
